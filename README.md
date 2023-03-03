@@ -1,5 +1,9 @@
 # sql-lesson
 
+This is how to learn SQL using [BigQuery](https://console.cloud.google.com/bigquery)
+
+![set up]()
+
 ```sql
 SELECT
   *
