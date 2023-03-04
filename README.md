@@ -2,7 +2,7 @@
 
 This is how to learn SQL using [BigQuery](https://console.cloud.google.com/bigquery)
 
-![set up](Screenshot 2023-03-03 at 09.47.57.png)
+![set up](bq_setup.png)
 
 ```sql
 SELECT
