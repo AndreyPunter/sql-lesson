@@ -1,8 +1,12 @@
-# sql-lesson
+# SQL lessons at [Northeastern](https://www.nulondon.ac.uk/) Skills Bootcamp
 
-This is how to learn SQL using [BigQuery](https://console.cloud.google.com/bigquery)
+This is a repository with notes on how to learn SQL using [BigQuery](https://console.cloud.google.com/bigquery)
+
+## The setup
 
 ![set up](bq_setup.png)
+
+## The queries to try
 
 ```sql
 SELECT
