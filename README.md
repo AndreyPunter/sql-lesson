@@ -12,3 +12,11 @@ FROM
 LIMIT
   10;
  ```
+
+```sql
+SELECT
+  MIN(date) AS min_date,
+  MAX(date) AS max_date
+FROM
+  `bigquery-public-data.covid19_weathersource_com.county_day_history`;
+  ```
