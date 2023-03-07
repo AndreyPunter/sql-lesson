@@ -30,3 +30,9 @@ SELECT count(artist_end_date) as artists_who_died
 FROM
   `bigquery-public-data.the_met.objects`;
   ```
+
+```sql
+SELECT (count(artist_end_date)/count(*))*100 as artists_who_died
+FROM
+  `bigquery-public-data.the_met.objects`;
+  ```
