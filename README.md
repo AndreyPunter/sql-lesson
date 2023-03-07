@@ -24,3 +24,9 @@ SELECT
 FROM
   `bigquery-public-data.covid19_weathersource_com.county_day_history`;
   ```
+
+```sql
+SELECT count(artist_end_date) as artists_who_died
+FROM
+  `bigquery-public-data.the_met.objects`;
+  ```
