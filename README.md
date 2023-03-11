@@ -2,6 +2,11 @@
 
 This is a repository with notes on how to learn SQL using [BigQuery](https://console.cloud.google.com/bigquery)
 
+## Steps to start using BigQuery without listing your bank card
+
+1. Sign up to [Google Cloud console](https://console.cloud.google.com/) wiht your personal email (NU London student emails will not work for some reason)
+2. 
+
 ## The setup
 
 ![set up](bq_setup.png)
